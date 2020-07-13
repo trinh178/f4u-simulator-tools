@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/f4u-simulator-tools/static/css/main.d2e714af.chunk.css",
+    "main.js": "/f4u-simulator-tools/static/js/main.8e9b04b9.chunk.js",
+    "main.js.map": "/f4u-simulator-tools/static/js/main.8e9b04b9.chunk.js.map",
+    "runtime-main.js": "/f4u-simulator-tools/static/js/runtime-main.7c443749.js",
+    "runtime-main.js.map": "/f4u-simulator-tools/static/js/runtime-main.7c443749.js.map",
+    "static/css/2.4c6ee7a4.chunk.css": "/f4u-simulator-tools/static/css/2.4c6ee7a4.chunk.css",
+    "static/js/2.bdaf5ed3.chunk.js": "/f4u-simulator-tools/static/js/2.bdaf5ed3.chunk.js",
+    "static/js/2.bdaf5ed3.chunk.js.map": "/f4u-simulator-tools/static/js/2.bdaf5ed3.chunk.js.map",
+    "index.html": "/f4u-simulator-tools/index.html",
+    "precache-manifest.19fad0b3afee27f07375584f6c93cbd9.js": "/f4u-simulator-tools/precache-manifest.19fad0b3afee27f07375584f6c93cbd9.js",
+    "service-worker.js": "/f4u-simulator-tools/service-worker.js",
+    "static/css/2.4c6ee7a4.chunk.css.map": "/f4u-simulator-tools/static/css/2.4c6ee7a4.chunk.css.map",
+    "static/css/main.d2e714af.chunk.css.map": "/f4u-simulator-tools/static/css/main.d2e714af.chunk.css.map",
+    "static/js/2.bdaf5ed3.chunk.js.LICENSE.txt": "/f4u-simulator-tools/static/js/2.bdaf5ed3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c443749.js",
+    "static/css/2.4c6ee7a4.chunk.css",
+    "static/js/2.bdaf5ed3.chunk.js",
+    "static/css/main.d2e714af.chunk.css",
+    "static/js/main.8e9b04b9.chunk.js"
+  ]
+}
